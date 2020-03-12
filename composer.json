@@ -1,0 +1,12 @@
+{
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/dmcintyre-pivotal/php-cfenv"
+		}
+	],
+	"require": {
+		"dmcintyre-pivotal/php-cfenv": "dev-master",
+		"mongodb/mongodb": "1.5.2"
+	}
+}
