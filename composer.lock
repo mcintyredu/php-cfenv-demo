@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cloudfoundry-community/php-cfenv.git",
-                "reference": "7ff29a811bcccfcc4e6906125dd33f1607ed2339"
+                "reference": "e1552e0f9719bc451ffdf920a87fbe75dc991c5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cloudfoundry-community/php-cfenv/zipball/7ff29a811bcccfcc4e6906125dd33f1607ed2339",
-                "reference": "7ff29a811bcccfcc4e6906125dd33f1607ed2339",
+                "url": "https://api.github.com/repos/cloudfoundry-community/php-cfenv/zipball/e1552e0f9719bc451ffdf920a87fbe75dc991c5c",
+                "reference": "e1552e0f9719bc451ffdf920a87fbe75dc991c5c",
                 "shasum": ""
             },
             "require-dev": {
@@ -55,7 +55,7 @@
                 "source": "https://github.com/cloudfoundry-community/php-cfenv/tree/master",
                 "issues": "https://github.com/cloudfoundry-community/php-cfenv/issues"
             },
-            "time": "2020-03-13T08:07:09+00:00"
+            "time": "2020-03-13T09:53:15+00:00"
         },
         {
             "name": "mongodb/mongodb",

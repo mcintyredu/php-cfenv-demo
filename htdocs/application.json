@@ -1,0 +1,26 @@
+{
+    "application_id": "2f3258c5-c52f-407f-bff2-15244e558f08",
+    "application_name": "php-cfenv-demo",
+    "application_uris": [
+        "php-cfenv-demo.demo-cfenv.org"
+    ],
+    "application_version": "a12af1ec-d347-4e61-99ef-8714789f9bed",
+    "cf_api": "https://api.run.pivotal.io",
+    "limits": {
+        "disk": 1024,
+        "fds": 16384,
+        "mem": 128
+    },
+    "name": "php-cfenv-demo",
+    "organization_id": "9be8e148-6ebf-489b-a2b1-dc659df7373f",
+    "organization_name": "DEMOS",
+    "process_id": "2f3258c5-c52f-407f-bff2-15244e558f08",
+    "process_type": "web",
+    "space_id": "7eca0139-a0cc-4d84-ad24-906ac78a9875",
+    "space_name": "dev",
+    "uris": [
+        "php-cfenv-demo.demo-cfenv.org"
+    ],
+    "users": null,
+    "version": "a12af1ec-d347-4e61-99ef-8714789f9bed"
+}

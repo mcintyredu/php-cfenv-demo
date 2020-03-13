@@ -1,0 +1,29 @@
+{
+    "mlab": [
+        {
+            "binding_name": null,
+            "credentials": {
+                "uri": "mongodb://CloudFoundry_ai691v5o_pmnhc1fs_7tmslsgo:AD0E0EX0UmSNwFwzZ7f64DaERdOz0QUo@ds311128.mlab.com:11128/CloudFoundry_ai691v5o_pmnhc1fs"
+            },
+            "instance_name": "my-mongodb",
+            "label": "mlab",
+            "name": "my-mongodb",
+            "plan": "sandbox",
+            "provider": null,
+            "syslog_drain_url": null,
+            "tags": [
+                "Cloud Databases",
+                "Developer Tools",
+                "Web-based",
+                "Data Store",
+                "document",
+                "Windows",
+                "Security",
+                "IT Management",
+                "mongodb",
+                "Mac"
+            ],
+            "volume_mounts": []
+        }
+    ]
+}
