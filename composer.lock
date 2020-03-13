@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "020dcbdc870cc6e198e73b0cef598080",
+    "content-hash": "0a3c33305ec09b085c59a461fb49a394",
     "packages": [
         {
-            "name": "dmcintyre-pivotal/php-cfenv",
+            "name": "cloudfoundry-community/php-cfenv",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/dmcintyre-pivotal/php-cfenv.git",
-                "reference": "8cf3e1c815ec4e7cbb3853d3820829d895ac1854"
+                "url": "https://github.com/cloudfoundry-community/php-cfenv.git",
+                "reference": "7ff29a811bcccfcc4e6906125dd33f1607ed2339"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dmcintyre-pivotal/php-cfenv/zipball/8cf3e1c815ec4e7cbb3853d3820829d895ac1854",
-                "reference": "8cf3e1c815ec4e7cbb3853d3820829d895ac1854",
+                "url": "https://api.github.com/repos/cloudfoundry-community/php-cfenv/zipball/7ff29a811bcccfcc4e6906125dd33f1607ed2339",
+                "reference": "7ff29a811bcccfcc4e6906125dd33f1607ed2339",
                 "shasum": ""
             },
             "require-dev": {
@@ -52,10 +52,10 @@
                 "vcapservices"
             ],
             "support": {
-                "source": "https://github.com/dmcintyre-pivotal/php-cfenv/tree/master",
-                "issues": "https://github.com/dmcintyre-pivotal/php-cfenv/issues"
+                "source": "https://github.com/cloudfoundry-community/php-cfenv/tree/master",
+                "issues": "https://github.com/cloudfoundry-community/php-cfenv/issues"
             },
-            "time": "2020-03-12T11:15:55+00:00"
+            "time": "2020-03-13T08:07:09+00:00"
         },
         {
             "name": "mongodb/mongodb",
@@ -130,7 +130,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "dmcintyre-pivotal/php-cfenv": 20
+        "cloudfoundry-community/php-cfenv": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
