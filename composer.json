@@ -7,6 +7,6 @@
 	],
 	"require": {
 		"cloudfoundry-community/php-cfenv": "dev-master",
-		"mongodb/mongodb": "1.5.2"
+		"mongodb/mongodb": "1.10.0"
 	}
 }
